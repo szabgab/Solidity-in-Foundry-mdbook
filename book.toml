@@ -6,10 +6,6 @@ src = "src"
 title = "Solidity in Foundry"
 description = "Learn Solidity from scratch using Foundry"
 
-
-# select renderers
-renderer = ["html"]
-
 [output.html]
 git-repository-url = "https://github.com/Genesis3800/Solidity-in-Foundry-mdbook"
 default-theme = "Rust"
